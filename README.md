@@ -72,7 +72,28 @@ Davante Medac Nova · 2025–2027
 
 ## Proyectos
 
+- [**Nombre del proyecto 1**](https://github.com/TU-USUARIO/proyecto1): qué hace, en una frase. Java y SQL.
+- [**Nombre del proyecto 2**](https://github.com/TU-USUARIO/proyecto2): qué hace, en una frase. Kotlin.
+- [**Nombre del proyecto 3**](https://github.com/TU-USUARIO/proyecto3): qué hace, en una frase. Python.
 
+## Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170">
+
+<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Gráfica de contribuciones por día" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg">
+  <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
 
 ## Idiomas
 
